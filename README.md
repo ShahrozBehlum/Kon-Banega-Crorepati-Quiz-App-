@@ -5,7 +5,7 @@ by using HTML5, CSS3 and Javascript
 A fun and interactive quiz web application inspired by the popular game show "Kaun Banega Crorepati". This project tests users' knowledge with multiple-choice questions and keeps track of their score as they progress through different levels.
 
 📌 Features
-Fully responsive UI using HTML and CSS
+using HTML and CSS
 
 Interactive quiz functionality built with vanilla JavaScript
 
@@ -22,7 +22,7 @@ HTML5
 
 CSS3
 
-JavaScript (Vanilla)
+JavaScript
 
 
 
